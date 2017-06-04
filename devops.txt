@@ -1,5 +1,10 @@
 this is edit file for devops
 This is the test file for devops class for s3s
+<<<<<<< HEAD
+My name is Mukunda Swar. I am eager to learn new technologies as it happenning now.
+Thank you.
+
+=======
 
 
 
@@ -22,3 +27,4 @@ second update
 another update
 
 ded95b08dadc08fab27249cfde89ad8acee0ed1f
+>>>>>>> 633e7f86c475ba1a5c87ff526db7f54670405f8c

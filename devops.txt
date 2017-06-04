@@ -1,3 +1,8 @@
 This is the test file for devops class for s3s
+<<<<<<< HEAD
 
 Edited by Pratik.
+=======
+This is an update by faisal
+second update
+>>>>>>> 3d3238d39fd40676c3f2f1603c46393c83c0f3bc

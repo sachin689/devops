@@ -1,19 +1,21 @@
 this is edit file for devops
 This is the test file for devops class for s3s
-<<<<<<< HEAD
 sujan Karmacharya
 =======
-
-
-Edited by Pratik.
-
+=======
+My name is Mukunda Swar. I am eager to learn new technologies as it happenning now.
+Thank you.
+=======
+"Here is my update to the file - David Rai"
+=======
 This is an update by faisal
 second update
-
-
-
 another update
-
+=======
+Edited by Pratik.
+This is an update by faisal
+second update
+another update
 by sujan
-
->>>>>>> ded95b08dadc08fab27249cfde89ad8acee0ed1f
+========
+Ujwol
